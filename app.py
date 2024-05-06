@@ -8,9 +8,9 @@ import matplotlib.pyplot as plt
 
 model_options = ['AAPL', 'GOOG', 'TSLA']
 stock_symbol = st.selectbox('Select Stock Symbol', model_options)
-model_path_AAPL = 'D:/Ambitions/Winter 24/PE1/Project/Keras Files/AAPL.keras'
-model_path_GOOG = 'D:/Ambitions/Winter 24/PE1/Project/Keras Files/GOOG.keras'
-model_path_TSLA = 'D:/Ambitions/Winter 24/PE1/Project/Keras Files/TSLA.keras'
+model_path_AAPL = 'Keras Files/AAPL.keras'
+model_path_GOOG = 'Keras Files/GOOG.keras'
+model_path_TSLA = 'Keras Files/TSLA.keras'
 
 
 
